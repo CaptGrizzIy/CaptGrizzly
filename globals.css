@@ -1,0 +1,85 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Inter:400|Aldrich:400|Anaheim:400");
+/* The following line is used to measure usage of this code in production. For more info see our usage billing page */
+@import url("https://px.animaapp.com/643d5d8bbce9b083ec8fb65f.643d5d8cbce9b083ec8fb662.CWGmFCn.hcp.png");
+
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.pngegg-1 {
+  left: 140px;
+}
+
+.pngegg-2 {
+  left: 1093px;
+}
+
+.rectangle-3 {
+  background-color: var(--claret);
+  box-shadow: 0px 4px 4px #00000040;
+  height: 58px;
+  left: 0;
+  position: absolute;
+  top: 126px;
+  width: 1920px;
+}
+
+.news {
+  cursor: pointer;
+  left: 666px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 138px;
+  width: 234px;
+}
+
+.gameday {
+  cursor: pointer;
+  left: 990px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 138px;
+  width: 287px;
+}
+
+.standings {
+  cursor: pointer;
+  left: 1367px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 138px;
+  width: 234px;
+}

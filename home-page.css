@@ -1,0 +1,148 @@
+/* screen - home-page */
+
+.home-page {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 1751px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.home-page .overlap-group {
+  height: 1755px;
+  margin-top: -2px;
+  position: relative;
+  width: 1920px;
+}
+
+.home-page .image-1 {
+  height: 830px;
+  left: 646px;
+  object-fit: cover;
+  position: absolute;
+  top: 472px;
+  width: 652px;
+}
+
+.home-page .welcome-to-angels-homepage {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxxl);
+  font-weight: 400;
+  left: 593px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 204px;
+  width: 734px;
+}
+
+.home-page .group-16 {
+  display: flex;
+  height: 1571px;
+  left: 0;
+  position: absolute;
+  top: 184px;
+  width: 1920px;
+}
+
+.home-page .x960x0-1-1 {
+  height: 1569px;
+  object-fit: cover;
+  width: 238px;
+}
+
+.home-page .image-7 {
+  height: 159px;
+  margin-left: 1039px;
+  margin-top: 220px;
+  object-fit: cover;
+  width: 318px;
+}
+
+.home-page .usatsi_18291519_168388303_lowres-1-1 {
+  height: 1569px;
+  margin-left: 91px;
+  object-fit: cover;
+  width: 234px;
+}
+
+.home-page .image-8 {
+  height: 630px;
+  left: 207px;
+  position: absolute;
+  top: 171px;
+  width: 561px;
+}
+
+.home-page .rectangle-1 {
+  background: radial-gradient(50% 50% at 50% 50%, rgb(116.03, 0, 0) 12.4%, rgb(175.53, 0, 0) 100%);
+  box-shadow: 0px 4px 4px #00000040;
+  height: 126px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.home-page .rectangle-2 {
+  cursor: pointer;
+  height: 130px;
+  left: 908px;
+  position: absolute;
+  top: 2px;
+  width: 104px;
+}
+
+.home-page .x40-man-roster {
+  cursor: pointer;
+  left: 266px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 136px;
+  width: 310px;
+}
+
+.home-page .rectangle-12 {
+  background-color: #8f0000;
+  height: 269px;
+  left: 234px;
+  position: absolute;
+  top: 1484px;
+  width: 1452px;
+}
+
+.home-page .image-9 {
+  height: 294px;
+  left: 1297px;
+  position: absolute;
+  top: 1459px;
+  width: 375px;
+}
+
+.home-page .all-logos-trademark {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  height: 205px;
+  left: 274px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 1511px;
+  width: 962px;
+}
+
+.home-page .pngegg {
+  height: 151px;
+  position: absolute;
+  top: 2px;
+  width: 694px;
+}

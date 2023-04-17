@@ -1,0 +1,162 @@
+/* screen - standings */
+
+.standings {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  width: 1920px;
+}
+
+.standings .overlap-group {
+  height: 1244px;
+  position: relative;
+  width: 1920px;
+}
+
+.standings .angel15955-1-2 {
+  height: 1244px;
+  left: 160px;
+  position: absolute;
+  top: 0;
+  width: 1600px;
+}
+
+.standings .rectangle-9 {
+  background-color: var(--midnight-blue);
+  height: 900px;
+  left: 0;
+  position: absolute;
+  top: 184px;
+  width: 234px;
+}
+
+.standings .rectangle-9-1 {
+  background-color: var(--midnight-blue);
+  height: 900px;
+  left: 1686px;
+  position: absolute;
+  top: 184px;
+  width: 234px;
+}
+
+.standings .american-league {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  left: 525px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 207px;
+  width: 176px;
+}
+
+.standings .national-league {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  left: 1249px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 207px;
+  width: 158px;
+}
+
+.standings .mlbtv-welcome-center-_-mlb {
+  height: 843px;
+  left: 234px;
+  object-fit: cover;
+  position: absolute;
+  top: 249px;
+  width: 714px;
+}
+
+.standings .mlbtv-welcome-center-_-mlb-1 {
+  height: 843px;
+  left: 968px;
+  object-fit: cover;
+  position: absolute;
+  top: 249px;
+  width: 718px;
+}
+
+.standings .rectangle-1 {
+  background: radial-gradient(50% 50% at 50% 50%, rgb(116.03, 0, 0) 12.4%, rgb(175.53, 0, 0) 100%);
+  box-shadow: 0px 4px 4px #00000040;
+  height: 126px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.standings .rectangle-2 {
+  cursor: pointer;
+  height: 132px;
+  left: 908px;
+  position: absolute;
+  top: 0;
+  width: 104px;
+}
+
+.standings .rectangle-5 {
+  background-color: var(--midnight-blue);
+  height: 48px;
+  left: 1367px;
+  position: absolute;
+  top: 131px;
+  width: 234px;
+}
+
+.standings .title {
+  cursor: pointer;
+  left: 266px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 136px;
+  width: 310px;
+}
+
+.standings .standings-1 {
+  cursor: pointer;
+  left: 1367px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 138px;
+  width: 234px;
+}
+
+.standings .x960x0-1-1 {
+  height: 1060px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 184px;
+  width: 238px;
+}
+
+.standings .usatsi_18291519_168388303_lowres-1-1 {
+  height: 1060px;
+  left: 1686px;
+  object-fit: cover;
+  position: absolute;
+  top: 184px;
+  width: 234px;
+}
+
+.standings .pngegg {
+  height: 153px;
+  position: absolute;
+  top: 0;
+  width: 694px;
+}

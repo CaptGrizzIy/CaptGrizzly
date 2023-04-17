@@ -1,0 +1,280 @@
+/* screen - news */
+
+.news {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  width: 1920px;
+}
+
+.news .overlap-group {
+  height: 1750px;
+  position: relative;
+  width: 1920px;
+}
+
+.news .angel15955-1-2 {
+  height: 1750px;
+  left: 164px;
+  position: absolute;
+  top: 0;
+  width: 1592px;
+}
+
+.news .rectangle-11 {
+  background: linear-gradient(180deg, rgb(109.65, 0, 0) 50.94%, rgba(158.53, 0, 0, 0) 57.19%);
+  height: 1564px;
+  left: 236px;
+  position: absolute;
+  top: 186px;
+  width: 1450px;
+}
+
+.news .rectangle-9 {
+  background-color: var(--midnight-blue);
+  height: 1566px;
+  left: 0;
+  position: absolute;
+  top: 184px;
+  width: 164px;
+}
+
+.news .rectangle-10 {
+  background-color: var(--midnight-blue);
+  height: 1566px;
+  left: 1756px;
+  position: absolute;
+  top: 184px;
+  width: 164px;
+}
+
+.news .angels-gm-opens-up-on-team-expectations {
+  left: 367px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 1418px;
+  width: 354px;
+}
+
+.news .image-2 {
+  height: 203px;
+  left: 691px;
+  object-fit: cover;
+  position: absolute;
+  top: 1463px;
+  width: 143px;
+}
+
+.news .boston-angels-gen {
+  left: 400px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1477px;
+  width: 288px;
+}
+
+.news .angels-stung-by-misc {
+  left: 367px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 1071px;
+  width: 354px;
+}
+
+.news .image-2-1 {
+  left: 691px;
+  top: 1123px;
+}
+
+.news .boston-the-good-n {
+  left: 400px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1137px;
+  width: 288px;
+}
+
+.news .span-1 {
+  text-decoration: underline;
+}
+
+.news .ohtani-sets-new-reco {
+  left: 1012px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 1066px;
+  width: 354px;
+}
+
+.news .image-2-2 {
+  left: 1336px;
+  top: 1113px;
+}
+
+.news .anaheim-with-his {
+  left: 1045px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1127px;
+  width: 288px;
+}
+
+.news .encouraging-signs-fo {
+  left: 1012px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 1394px;
+  width: 354px;
+}
+
+.news .image-2-3 {
+  left: 1336px;
+  top: 1443px;
+}
+
+.news .anaheim-before-he {
+  left: 1045px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1457px;
+  width: 288px;
+}
+
+.news .x960x0-1-1 {
+  height: 1571px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 179px;
+  width: 238px;
+}
+
+.news .usatsi_18291519_168388303_lowres-1-1 {
+  height: 1571px;
+  left: 1686px;
+  object-fit: cover;
+  position: absolute;
+  top: 179px;
+  width: 234px;
+}
+
+.news .rectangle-1 {
+  background: radial-gradient(50% 50% at 50% 50%, rgb(116.03, 0, 0) 12.4%, rgb(175.53, 0, 0) 100%);
+  box-shadow: 0px 4px 4px #00000040;
+  height: 126px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.news .rectangle-2 {
+  cursor: pointer;
+  height: 132px;
+  left: 908px;
+  position: absolute;
+  top: 0;
+  width: 104px;
+}
+
+.news .rectangle-5 {
+  background-color: var(--midnight-blue);
+  height: 48px;
+  left: 708px;
+  position: absolute;
+  top: 131px;
+  width: 150px;
+}
+
+.news .title {
+  cursor: pointer;
+  left: 266px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 136px;
+  width: 310px;
+}
+
+.news .news-1 {
+  left: 666px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 138px;
+  width: 234px;
+}
+
+.news .component-1 {
+  display: flex;
+  height: 783px;
+  left: 378px;
+  overflow: hidden;
+  position: absolute;
+  top: 184px;
+  width: 1158px;
+}
+
+.news .x2 {
+  cursor: pointer;
+  height: 780px;
+  margin-top: 3px;
+  object-fit: cover;
+  width: 1158px;
+}
+
+.news .x1 {
+  cursor: pointer;
+  height: 788px;
+  margin-left: 4119px;
+  margin-top: -895px;
+  object-fit: cover;
+  width: 1162px;
+}
+
+.news .x3 {
+  cursor: pointer;
+  height: 774px;
+  margin-left: 73px;
+  margin-top: -887px;
+  object-fit: cover;
+  width: 1162px;
+}
+
+.news .x4 {
+  cursor: pointer;
+  height: 784px;
+  margin-left: 73px;
+  margin-top: -887px;
+  object-fit: cover;
+  width: 1162px;
+}
+
+.news .image-2-4 {
+  height: 203px;
+  object-fit: cover;
+  position: absolute;
+  width: 143px;
+}
+
+.news .pngegg {
+  height: 153px;
+  position: absolute;
+  top: 0;
+  width: 694px;
+}
