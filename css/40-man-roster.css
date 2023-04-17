@@ -2,7 +2,7 @@
 
 .x40-man-roster {
   align-items: flex-start;
-  background-color: var(--red);
+  background-color: red;
   border: 1px none;
   display: flex;
   flex-direction: column;
