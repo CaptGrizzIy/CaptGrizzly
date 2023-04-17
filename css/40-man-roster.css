@@ -6,8 +6,8 @@
   border: 1px none;
   display: flex;
   flex-direction: column;
-  height: 1755px;
-  width: 1920px;
+  height: auto;
+  width: 100%;
 }
 
 .x40-man-roster .overlap-group {
