@@ -63,44 +63,44 @@
 
 .news {
   cursor: pointer;
-  left: 666px;
+  left: 0;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
   text-align: center;
-  top: 138px;
-  width: 234px;
+  top: 0;
+  width: 0;
 }
 
 .gameday {
   cursor: pointer;
-  left: 990px;
+  left: 0;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
   text-align: center;
-  top: 138px;
-  width: 287px;
+  top: 0;
+  width: 0;
 }
 
 .x40-man-roster {
   cursor: pointer;
-  left: 266px;
+  left: 0;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
   text-align: center;
-  top: 136px;
-  width: 310px;
+  top: 0;
+  width: 0;
 }
 
 .standings {
   cursor: pointer;
-  left: 1367px;
+  left: 0;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
   text-align: center;
-  top: 138px;
-  width: 234px;
+  top: 0;
+  width: 0;
 }
