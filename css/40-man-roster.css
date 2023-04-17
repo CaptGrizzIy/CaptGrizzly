@@ -1,0 +1,550 @@
+/* screen - 40-man-roster */
+
+.x40-man-roster {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 1755px;
+  width: 1920px;
+}
+
+.x40-man-roster .overlap-group {
+  height: 184px;
+  position: relative;
+  width: 1920px;
+}
+
+.x40-man-roster .rectangle-2 {
+  cursor: pointer;
+  height: 132px;
+  left: 908px;
+  position: absolute;
+  top: 0;
+  width: 104px;
+}
+
+.x40-man-roster .rectangle-5 {
+  background-color: var(--midnight-blue);
+  height: 48px;
+  left: 266px;
+  position: absolute;
+  top: 129px;
+  width: 310px;
+}
+
+.x40-man-roster .title {
+  left: 266px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 136px;
+  width: 310px;
+}
+
+.x40-man-roster .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  min-width: 1920px;
+}
+
+.x40-man-roster .overlap-group1 {
+  height: 1571px;
+  position: relative;
+  width: 1686px;
+}
+
+.x40-man-roster .rectangle-9 {
+  background-color: var(--midnight-blue);
+  height: 900px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 164px;
+}
+
+.x40-man-roster .x960x0-1-1 {
+  height: 1571px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 238px;
+}
+
+.x40-man-roster .angels-logo-google-s {
+  height: 1026px;
+  left: 234px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 721px;
+}
+
+.x40-man-roster .x40-man-roster-_-los {
+  height: 368px;
+  left: 234px;
+  position: absolute;
+  top: 1037px;
+  width: 717px;
+}
+
+.x40-man-roster .x40-man-roster-_-los-1 {
+  height: 677px;
+  left: 955px;
+  position: absolute;
+  top: 894px;
+  width: 704px;
+}
+
+.x40-man-roster .x40-man-roster-_-los-2 {
+  height: 1001px;
+  left: 924px;
+  position: absolute;
+  top: 0;
+  width: 762px;
+}
+
+.x40-man-roster .tyler-anderson {
+  cursor: pointer;
+  height: 52px;
+  left: 234px;
+  object-fit: cover;
+  position: absolute;
+  top: 40px;
+  width: 717px;
+}
+
+.x40-man-roster .jamie-barria {
+  cursor: pointer;
+  height: 52px;
+  left: 234px;
+  object-fit: cover;
+  position: absolute;
+  top: 102px;
+  width: 717px;
+}
+
+.x40-man-roster .griffin-canning {
+  cursor: pointer;
+  height: 52px;
+  left: 234px;
+  object-fit: cover;
+  position: absolute;
+  top: 164px;
+  width: 717px;
+}
+
+.x40-man-roster .davis-daniel {
+  cursor: pointer;
+  height: 52px;
+  left: 234px;
+  object-fit: cover;
+  position: absolute;
+  top: 226px;
+  width: 717px;
+}
+
+.x40-man-roster .tucker-davidson {
+  cursor: pointer;
+  height: 52px;
+  left: 234px;
+  object-fit: cover;
+  position: absolute;
+  top: 291px;
+  width: 717px;
+}
+
+.x40-man-roster .reid-detmers {
+  cursor: pointer;
+  height: 52px;
+  left: 234px;
+  object-fit: cover;
+  position: absolute;
+  top: 353px;
+  width: 717px;
+}
+
+.x40-man-roster .carlos-estevez {
+  cursor: pointer;
+  height: 52px;
+  left: 234px;
+  object-fit: cover;
+  position: absolute;
+  top: 415px;
+  width: 717px;
+}
+
+.x40-man-roster .justin-garza {
+  cursor: pointer;
+  height: 52px;
+  left: 234px;
+  object-fit: cover;
+  position: absolute;
+  top: 477px;
+  width: 717px;
+}
+
+.x40-man-roster .jimmy-herget {
+  cursor: pointer;
+  height: 52px;
+  left: 234px;
+  object-fit: cover;
+  position: absolute;
+  top: 541px;
+  width: 717px;
+}
+
+.x40-man-roster .kolton-ingram {
+  cursor: pointer;
+  height: 52px;
+  left: 234px;
+  object-fit: cover;
+  position: absolute;
+  top: 603px;
+  width: 717px;
+}
+
+.x40-man-roster .aaron-loup {
+  cursor: pointer;
+  height: 52px;
+  left: 234px;
+  object-fit: cover;
+  position: absolute;
+  top: 665px;
+  width: 717px;
+}
+
+.x40-man-roster .jose-marte {
+  top: 727px;
+}
+
+.x40-man-roster .matt-moore {
+  left: 234px;
+  top: 792px;
+}
+
+.x40-man-roster .jose-quijada {
+  top: 854px;
+}
+
+.x40-man-roster .chris-rodriguez {
+  cursor: pointer;
+  height: 52px;
+  left: 234px;
+  object-fit: cover;
+  position: absolute;
+  top: 916px;
+  width: 717px;
+}
+
+.x40-man-roster .patrick-sandoval {
+  cursor: pointer;
+  height: 52px;
+  left: 234px;
+  object-fit: cover;
+  position: absolute;
+  top: 978px;
+  width: 717px;
+}
+
+.x40-man-roster .chase-silseth {
+  cursor: pointer;
+  height: 52px;
+  left: 234px;
+  object-fit: cover;
+  position: absolute;
+  top: 1040px;
+  width: 717px;
+}
+
+.x40-man-roster .jose-soriano {
+  top: 1102px;
+}
+
+.x40-man-roster .jose-suarez {
+  top: 1167px;
+}
+
+.x40-man-roster .ryan-tepera {
+  cursor: pointer;
+  height: 52px;
+  left: 234px;
+  object-fit: cover;
+  position: absolute;
+  top: 1229px;
+  width: 717px;
+}
+
+.x40-man-roster .andrew-wantz {
+  left: 234px;
+  top: 1291px;
+}
+
+.x40-man-roster .zack-weiss {
+  cursor: pointer;
+  height: 52px;
+  left: 234px;
+  object-fit: cover;
+  position: absolute;
+  top: 1353px;
+  width: 717px;
+}
+
+.x40-man-roster .jo-adell {
+  cursor: pointer;
+  height: 52px;
+  left: 955px;
+  object-fit: cover;
+  position: absolute;
+  top: 1041px;
+  width: 717px;
+}
+
+.x40-man-roster .jake-lamb {
+  cursor: pointer;
+  height: 52px;
+  left: 955px;
+  object-fit: cover;
+  position: absolute;
+  top: 1103px;
+  width: 717px;
+}
+
+.x40-man-roster .mickey-moniak {
+  cursor: pointer;
+  height: 52px;
+  left: 955px;
+  object-fit: cover;
+  position: absolute;
+  top: 1165px;
+  width: 717px;
+}
+
+.x40-man-roster .brett-phillips {
+  cursor: pointer;
+  height: 52px;
+  left: 955px;
+  object-fit: cover;
+  position: absolute;
+  top: 1221px;
+  width: 717px;
+}
+
+.x40-man-roster .hunter-renfroe {
+  cursor: pointer;
+  height: 52px;
+  left: 955px;
+  object-fit: cover;
+  position: absolute;
+  top: 1285px;
+  width: 717px;
+}
+
+.x40-man-roster .mike-trout {
+  cursor: pointer;
+  height: 52px;
+  left: 955px;
+  object-fit: cover;
+  position: absolute;
+  top: 1343px;
+  width: 717px;
+}
+
+.x40-man-roster .taylor-ward {
+  cursor: pointer;
+  height: 52px;
+  left: 955px;
+  object-fit: cover;
+  position: absolute;
+  top: 1405px;
+  width: 717px;
+}
+
+.x40-man-roster .brandon-drury {
+  cursor: pointer;
+  height: 52px;
+  left: 960px;
+  object-fit: cover;
+  position: absolute;
+  top: 389px;
+  width: 717px;
+}
+
+.x40-man-roster .david-fletcher {
+  cursor: pointer;
+  height: 52px;
+  left: 960px;
+  object-fit: cover;
+  position: absolute;
+  top: 451px;
+  width: 717px;
+}
+
+.x40-man-roster .zach-neto {
+  cursor: pointer;
+  height: 52px;
+  left: 960px;
+  object-fit: cover;
+  position: absolute;
+  top: 513px;
+  width: 717px;
+}
+
+.x40-man-roster .anthony-rendon {
+  cursor: pointer;
+  height: 52px;
+  left: 960px;
+  object-fit: cover;
+  position: absolute;
+  top: 575px;
+  width: 717px;
+}
+
+.x40-man-roster .luis-rengifo {
+  cursor: pointer;
+  height: 52px;
+  left: 960px;
+  object-fit: cover;
+  position: absolute;
+  top: 640px;
+  width: 717px;
+}
+
+.x40-man-roster .livan-soto {
+  cursor: pointer;
+  height: 52px;
+  left: 960px;
+  object-fit: cover;
+  position: absolute;
+  top: 702px;
+  width: 717px;
+}
+
+.x40-man-roster .michael-stefanic {
+  cursor: pointer;
+  height: 52px;
+  left: 960px;
+  object-fit: cover;
+  position: absolute;
+  top: 764px;
+  width: 717px;
+}
+
+.x40-man-roster .gio-urshela {
+  cursor: pointer;
+  height: 52px;
+  left: 960px;
+  object-fit: cover;
+  position: absolute;
+  top: 826px;
+  width: 717px;
+}
+
+.x40-man-roster .andrew-velazquez {
+  left: 960px;
+  top: 890px;
+}
+
+.x40-man-roster .jared-walsh {
+  cursor: pointer;
+  height: 52px;
+  left: 960px;
+  object-fit: cover;
+  position: absolute;
+  top: 952px;
+  width: 717px;
+}
+
+.x40-man-roster .logan-o-hoppe {
+  cursor: pointer;
+  height: 52px;
+  left: 951px;
+  object-fit: cover;
+  position: absolute;
+  top: 159px;
+  width: 717px;
+}
+
+.x40-man-roster .max-stassi {
+  cursor: pointer;
+  height: 52px;
+  left: 951px;
+  object-fit: cover;
+  position: absolute;
+  top: 221px;
+  width: 717px;
+}
+
+.x40-man-roster .matt-thaiss {
+  left: 951px;
+  top: 283px;
+}
+
+.x40-man-roster .shohei-ohtani {
+  cursor: pointer;
+  height: 52px;
+  left: 955px;
+  object-fit: cover;
+  position: absolute;
+  top: 40px;
+  width: 717px;
+}
+
+.x40-man-roster .overlap-group2 {
+  height: 1571px;
+  position: relative;
+  width: 234px;
+}
+
+.x40-man-roster .rectangle-10 {
+  background-color: var(--midnight-blue);
+  height: 900px;
+  left: 70px;
+  position: absolute;
+  top: 0;
+  width: 164px;
+}
+
+.x40-man-roster .usatsi_18291519_168388303_lowres-1-1 {
+  height: 1571px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 234px;
+}
+
+.x40-man-roster .andrew {
+  cursor: pointer;
+  height: 52px;
+  object-fit: cover;
+  position: absolute;
+  width: 717px;
+}
+
+.x40-man-roster .jose {
+  cursor: pointer;
+  height: 52px;
+  left: 234px;
+  object-fit: cover;
+  position: absolute;
+  width: 717px;
+}
+
+.x40-man-roster .matt {
+  cursor: pointer;
+  height: 52px;
+  object-fit: cover;
+  position: absolute;
+  width: 717px;
+}
+
+.x40-man-roster .pngegg {
+  height: 153px;
+  position: absolute;
+  top: 0;
+  width: 694px;
+}

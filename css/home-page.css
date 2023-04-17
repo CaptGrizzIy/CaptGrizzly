@@ -1,0 +1,123 @@
+/* screen - home-page */
+
+.home-page {
+  background-color: var(--white);
+  border: 1px none;
+  height: 1751px;
+  position: relative;
+  width: 1920px;
+}
+
+.home-page .overlap-group {
+  height: 1753px;
+  left: 0;
+  position: absolute;
+  top: -2px;
+  width: 1920px;
+}
+
+.home-page .image-1 {
+  height: 830px;
+  left: 646px;
+  object-fit: cover;
+  position: absolute;
+  top: 472px;
+  width: 652px;
+}
+
+.home-page .welcome-to-angels-homepage {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxxxl);
+  font-weight: 400;
+  left: 593px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 204px;
+  width: 734px;
+}
+
+.home-page .x960x0-1-1 {
+  height: 1569px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 184px;
+  width: 238px;
+}
+
+.home-page .image-7 {
+  height: 159px;
+  left: 1277px;
+  object-fit: cover;
+  position: absolute;
+  top: 404px;
+  width: 318px;
+}
+
+.home-page .image-8 {
+  height: 630px;
+  left: 207px;
+  position: absolute;
+  top: 171px;
+  width: 561px;
+}
+
+.home-page .rectangle-2 {
+  cursor: pointer;
+  height: 130px;
+  left: 908px;
+  position: absolute;
+  top: 2px;
+  width: 104px;
+}
+
+.home-page .rectangle-12 {
+  background-color: #8f0000;
+  height: 269px;
+  left: 234px;
+  position: absolute;
+  top: 1484px;
+  width: 1452px;
+}
+
+.home-page .image-9 {
+  height: 294px;
+  left: 1297px;
+  position: absolute;
+  top: 1459px;
+  width: 375px;
+}
+
+.home-page .all-logos-trademark {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  height: 205px;
+  left: 274px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 1511px;
+  width: 962px;
+}
+
+.home-page .usatsi_18291519_168388303_lowres-1-1 {
+  height: 1569px;
+  left: 1686px;
+  object-fit: cover;
+  position: absolute;
+  top: 182px;
+  width: 234px;
+}
+
+.home-page .pngegg {
+  height: 151px;
+  position: absolute;
+  top: 2px;
+  width: 694px;
+}
