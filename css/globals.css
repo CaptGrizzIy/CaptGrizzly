@@ -2,9 +2,6 @@
 @import url("https://fonts.googleapis.com/css?family=Inter:400|Aldrich:400|Anaheim:400");
 /* The following line is used to measure usage of this code in production. For more info see our usage billing page */
 @import url("https://px.animaapp.com/643d5d8bbce9b083ec8fb65f.643d5d8cbce9b083ec8fb662.CWGmFCn.hcp.png");
-
-
-
 .screen a {
   display: contents;
   text-decoration: none;
@@ -63,44 +60,44 @@
 
 .news {
   cursor: pointer;
-  left: 0;
+  left: 666px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
   text-align: center;
-  top: 0;
-  width: 0;
+  top: 138px;
+  width: 234px;
 }
 
 .gameday {
   cursor: pointer;
-  left: 0;
+  left: 990px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
   text-align: center;
-  top: 0;
-  width: 0;
+  top: 138px;
+  width: 287px;
 }
 
 .x40-man-roster {
   cursor: pointer;
-  left: 0;
+  left: 266px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
   text-align: center;
-  top: 0;
-  width: 0;
+  top: 136px;
+  width: 310px;
 }
 
 .standings {
   cursor: pointer;
-  left: 0;
+  left: 1367px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
   text-align: center;
-  top: 0;
-  width: 0;
+  top: 138px;
+  width: 234px;
 }
