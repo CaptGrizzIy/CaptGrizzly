@@ -1,6 +1,6 @@
 /* screen - gameday */
 
-.gameday {
+.gamedaypgp {
   align-items: flex-start;
   background-color: var(--white);
   border: 1px none;
@@ -8,13 +8,13 @@
   width: 1920px;
 }
 
-.gameday .overlap-group {
+.gamedaypg .overlap-group {
   height: 1864px;
   position: relative;
   width: 1920px;
 }
 
-.gameday .angel15955-1-1 {
+.gamedaypg .angel15955-1-1 {
   height: 1776px;
   left: 182px;
   position: absolute;
@@ -22,7 +22,7 @@
   width: 1592px;
 }
 
-.gameday .x61fa9285eec4c40004bacd66-1 {
+.gamedaypg .x61fa9285eec4c40004bacd66-1 {
   cursor: pointer;
   height: 152px;
   left: 1208px;
@@ -31,7 +31,7 @@
   width: 347px;
 }
 
-.gameday .rectangle-2 {
+.gamedaypg .rectangle-2 {
   cursor: pointer;
   height: 132px;
   left: 908px;
@@ -40,7 +40,7 @@
   width: 104px;
 }
 
-.gameday .rectangle-5 {
+.gamedaypg .rectangle-5 {
   background-color: var(--midnight-blue);
   height: 48px;
   left: 990px;
@@ -49,7 +49,7 @@
   width: 282px;
 }
 
-.gameday .gameday-1 {
+.gamedaypg .gameday-1 {
   left: 990px;
   letter-spacing: 0;
   line-height: normal;
@@ -59,7 +59,7 @@
   width: 287px;
 }
 
-.gameday .angels-todays-game-g {
+.gamedaypg .angels-todays-game-g {
   height: 840px;
   left: 1170px;
   object-fit: cover;
@@ -68,7 +68,7 @@
   width: 478px;
 }
 
-.gameday .rectangle-9 {
+.gamedaypg .rectangle-9 {
   background-color: var(--midnight-blue);
   height: 1064px;
   left: 0;
@@ -77,7 +77,7 @@
   width: 164px;
 }
 
-.gameday .rectangle-10 {
+.gamedaypg .rectangle-10 {
   background-color: var(--midnight-blue);
   height: 1064px;
   left: 1756px;
@@ -86,7 +86,7 @@
   width: 164px;
 }
 
-.gameday .title {
+.gamedaypg .title {
   left: 1183px;
   letter-spacing: 0;
   line-height: normal;
@@ -96,7 +96,7 @@
   width: 468px;
 }
 
-.gameday .previous-game {
+.gamedaypg .previous-game {
   left: 310px;
   letter-spacing: 0;
   line-height: normal;
@@ -106,7 +106,7 @@
   width: 821px;
 }
 
-.gameday .current-game {
+.gamedaypg .current-game {
   left: 295px;
   letter-spacing: 0;
   line-height: normal;
@@ -116,7 +116,7 @@
   width: 821px;
 }
 
-.gameday .final-angels-1-red-sox-2 {
+.gamedaypg .final-angels-1-red-sox-2 {
   left: 279px;
   letter-spacing: 0;
   line-height: normal;
@@ -126,7 +126,7 @@
   width: 852px;
 }
 
-.gameday .next-games-yankee {
+.gamedaypg .next-games-yankee {
   color: var(--black);
   font-family: var(--font-family-anaheim);
   font-size: var(--font-size-xxl);
@@ -139,7 +139,7 @@
   width: 515px;
 }
 
-.gameday .x960x0-1-1 {
+.gamedaypg .x960x0-1-1 {
   height: 1680px;
   left: 0;
   object-fit: cover;
@@ -148,7 +148,7 @@
   width: 238px;
 }
 
-.gameday .usatsi_18291519_168388303_lowres-1-1 {
+.gamedaypg .usatsi_18291519_168388303_lowres-1-1 {
   height: 1680px;
   left: 1686px;
   object-fit: cover;
@@ -157,7 +157,7 @@
   width: 234px;
 }
 
-.gameday .image-6 {
+.gamedaypg .image-6 {
   height: 339px;
   left: 830px;
   position: absolute;
@@ -165,7 +165,7 @@
   width: 324px;
 }
 
-.gameday .image-4 {
+.gamedaypg .image-4 {
   cursor: pointer;
   height: 477px;
   left: 279px;
@@ -174,7 +174,7 @@
   width: 852px;
 }
 
-.gameday .image-5 {
+.gamedaypg .image-5 {
   cursor: pointer;
   height: 110px;
   left: 477px;
@@ -184,7 +184,7 @@
   width: 456px;
 }
 
-.gameday .watch-on-mlbtv {
+.gamedaypg .watch-on-mlbtv {
   color: var(--black);
   font-family: var(--font-family-anaheim);
   font-size: var(--font-size-l);
@@ -198,7 +198,7 @@
   width: 164px;
 }
 
-.gameday .los-angeles-angels-logo-transparent-1 {
+.gamedaypg .los-angeles-angels-logo-transparent-1 {
   height: 335px;
   left: 341px;
   object-fit: cover;
@@ -207,7 +207,7 @@
   width: 197px;
 }
 
-.gameday .text-1 {
+.gamedaypg .text-1 {
   color: var(--black);
   font-family: var(--font-family-anaheim);
   font-size: var(--font-size-xxxxxl);
@@ -221,7 +221,7 @@
   width: 196px;
 }
 
-.gameday .first-pitch-810-am-pst {
+.gamedaypg .first-pitch-810-am-pst {
   color: var(--black);
   font-family: var(--font-family-anaheim);
   font-size: var(--font-size-xxxl);
@@ -235,7 +235,7 @@
   width: 513px;
 }
 
-.gameday .buy-tickets {
+.gamedaypg .buy-tickets {
   color: var(--black);
   cursor: pointer;
   font-family: var(--font-family-anaheim);
@@ -250,7 +250,7 @@
   width: 252px;
 }
 
-.gameday .pngegg {
+.gamedaypg .pngegg {
   height: 153px;
   position: absolute;
   top: 0;
