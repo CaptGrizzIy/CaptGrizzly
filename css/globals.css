@@ -58,7 +58,7 @@
   width: 1920px;
 }
 
-.news {
+.newslink {
   cursor: pointer;
   left: 666px;
   letter-spacing: 0;
@@ -69,7 +69,7 @@
   width: 234px;
 }
 
-.gameday {
+.gamedaylink {
   cursor: pointer;
   left: 990px;
   letter-spacing: 0;
@@ -80,7 +80,7 @@
   width: 287px;
 }
 
-.x40-man-roster {
+.x40-man-rosterlink {
   cursor: pointer;
   left: 266px;
   letter-spacing: 0;
@@ -91,7 +91,7 @@
   width: 310px;
 }
 
-.standings {
+.standingslink {
   cursor: pointer;
   left: 1367px;
   letter-spacing: 0;
